@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\Задание 41.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\Задание 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\Задание 41.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\Задание 41.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\Задание 41.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\bin\Debug\net6.0\Задание 41.exe
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\bin\Debug\net6.0\Задание 41.deps.json
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\bin\Debug\net6.0\Задание 41.runtimeconfig.json
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\bin\Debug\net6.0\Задание 41.dll
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\bin\Debug\net6.0\ref\Задание 41.dll
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\bin\Debug\net6.0\Задание 41.pdb
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\Задание 41.dll
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\ref\Задание 41.dll
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\Задание 41.pdb
+C:\Users\Администратор\Desktop\Сcode\DZ-6\Задание 41\obj\Debug\net6.0\Задание 41.genruntimeconfig.cache
